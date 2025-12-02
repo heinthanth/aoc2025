@@ -1,0 +1,14 @@
+[package]
+name = "aoc2025"
+version = "0.1.0"
+edition = "2024"
+
+[[bin]]
+name = "d1_1"
+path = "src/d1_1.rs"
+
+[[bin]]
+name = "d1_2"
+path = "src/d1_2.rs"
+
+[dependencies]
